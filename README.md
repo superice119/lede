@@ -1,3 +1,7 @@
+**欢迎预览 CatWrt 源码，基于修改配置的 LEDE 编译成 CatWrt，修改项已全部开源。**
+
+**以下是原始 README**
+
 # 欢迎来到 Lean 的 LEDE 源码仓库
 
 如何编译自己需要的 LEDE 固件 [How to build your LEDE firmware](./README_EN.md)
