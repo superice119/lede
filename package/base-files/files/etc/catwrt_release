@@ -1,2 +1,4 @@
-version_amd64=v23.5
-hash_amd64=c9e88ec3e607e4c277729949e9192c8138a455ec
+version=v23.8
+hash=4de740d6b4d1b009930c193dd84652106b2cc3de
+source=lean
+arch=mt798x
