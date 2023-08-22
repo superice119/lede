@@ -1,4 +1,4 @@
 version=v23.8
-hash=4de740d6b4d1b009930c193dd84652106b2cc3de
+hash=5acb9a925ae580e4f6c283aded742f03abc697ec
 source=lean
-arch=mt798x
+arch=amd64
